@@ -1,10 +1,4 @@
-# Building an AI Financial Analyst with the Assistants API
-* Parallel Function Calling
-* Assistants API
-* Code Integrator
-* Fully Typed and ReUsable Code
-* Show Images if Requested in Prompt and Generated
-* Handle Exceptions
+# Deep Learning
 
 ### Create a Python 3.12+ Conda Envirnoment
 
