@@ -19,3 +19,5 @@ pip install -r requirements.txt
 
 https://deeplizard.com/resource/pavq7noze2
 
+https://hannibunny.github.io/mlbook/neuralnetworks/convolutionDemos.html
+
