@@ -14,3 +14,8 @@ python --version
 ```shell
 pip install -r requirements.txt
 ```
+
+### CNN(Convolutional Neural Network Resorses)
+```shell
+https://deeplizard.com/resource/pavq7noze2
+```
