@@ -10,3 +10,8 @@
 
 3.  https://saturncloud.io/blog/a-comprehensive-guide-to-convolutional-neural-networks-the-eli5-way/
 
+
+### Keras Functional API for Deep Learning
+
+1.  https://machinelearningmastery.com/keras-functional-api-deep-learning/
+
