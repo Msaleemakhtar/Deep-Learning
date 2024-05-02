@@ -15,3 +15,7 @@
 
 1.  https://machinelearningmastery.com/keras-functional-api-deep-learning/
 
+   
+### Understanding LSTM Networks
+1.  https://colah.github.io/posts/2015-08-Understanding-LSTMs/
+
