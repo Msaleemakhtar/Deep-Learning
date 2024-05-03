@@ -1,6 +1,9 @@
 # Deep Learning
 
 
+### Initializing neural networks
+
+1. https://www.deeplearning.ai/ai-notes/initialization/index.html
 
 ### CNN(Convolutional Neural Network Resorses)
 
