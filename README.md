@@ -21,8 +21,6 @@
    
 ### Understanding LSTM Networks
 1.  https://colah.github.io/posts/2015-08-Understanding-LSTMs/
-
-### Sequence to Sequence Learning with Neural Networks
-1.  https://arxiv.org/pdf/1409.3215
-2.  https://arxiv.org/pdf/1409.0473 (NEURAL MACHINE TRANSLATION)
+2.   https://arxiv.org/pdf/1409.3215(### Sequence to Sequence Learning with Neural Networks)
+3.  https://arxiv.org/pdf/1409.0473 (NEURAL MACHINE TRANSLATION BY JOINTLY LEARNING TO ALIGN AND TRANSLATE)
 
