@@ -23,4 +23,7 @@
 1.  https://colah.github.io/posts/2015-08-Understanding-LSTMs/
 2.   https://arxiv.org/pdf/1409.3215(### Sequence to Sequence Learning with Neural Networks)
 3.  https://arxiv.org/pdf/1409.0473 (NEURAL MACHINE TRANSLATION BY JOINTLY LEARNING TO ALIGN AND TRANSLATE)
+4.  Bahdanau Attention - https://arxiv.org/abs/1409.0473
+5.  Luong Attention - https://arxiv.org/abs/1508.04025
+
 
