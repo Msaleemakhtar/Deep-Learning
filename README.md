@@ -26,4 +26,7 @@
 4.  Bahdanau Attention - https://arxiv.org/abs/1409.0473
 5.  Luong Attention - https://arxiv.org/abs/1508.04025
 
+### Transformer
+1. https://arxiv.org/pdf/2306.07303
+
 
