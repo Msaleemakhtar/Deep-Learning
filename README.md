@@ -28,5 +28,8 @@
 
 ### Transformer
 1. https://arxiv.org/pdf/2306.07303
+2. https://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf
+3. https://jalammar.github.io/illustrated-transformer/
+         
 
 
