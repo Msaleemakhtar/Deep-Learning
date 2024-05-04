@@ -5,7 +5,7 @@
 
 1. https://www.deeplearning.ai/ai-notes/initialization/index.html
 
-### CNN(Convolutional Neural Network Resorses)
+### CNN(Convolutional Neural Network )
 
 1.  https://deeplizard.com/resource/pavq7noze2
 
