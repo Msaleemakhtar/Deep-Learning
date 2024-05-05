@@ -37,6 +37,7 @@
 2. https://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf
 3. https://jalammar.github.io/illustrated-transformer/
 4. https://colab.research.google.com/drive/1hXIQ77A4TYS4y3UthWF-Ci7V7vVUoxmQ#scrollTo=YLAhBxDSScmV(BertViz Interactive Tutorial)
+5. https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi(Neural Networks 3D Visualization)
 
          
 
