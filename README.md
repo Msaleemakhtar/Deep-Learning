@@ -5,6 +5,12 @@
 
 1. https://www.deeplearning.ai/ai-notes/initialization/index.html
 
+
+### Embedding Projector
+1. https://projector.tensorflow.org/
+
+   
+
 ### CNN(Convolutional Neural Network )
 
 1.  https://deeplizard.com/resource/pavq7noze2
