@@ -36,7 +36,8 @@
 1. https://arxiv.org/pdf/2306.07303
 2. https://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf
 3. https://jalammar.github.io/illustrated-transformer/
-4. https://colab.research.google.com/drive/1hXIQ77A4TYS4y3UthWF-Ci7V7vVUoxmQ#scrollTo=YLAhBxDSScmV
+4. https://colab.research.google.com/drive/1hXIQ77A4TYS4y3UthWF-Ci7V7vVUoxmQ#scrollTo=YLAhBxDSScmV(BertViz Interactive Tutorial)
+
          
 
 
